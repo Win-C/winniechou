@@ -1,0 +1,34 @@
+{
+  "name": "winniechou",
+  "version": "0.0.1",
+  "description": "My personal NPM business card",
+  "main": "index.js",
+  "bin": {
+    "winniechou": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Win-C/winniechou.git"
+  },
+  "keywords": [
+    "NPM",
+    "Business",
+    "Card",
+    "Node"
+  ],
+  "author": "Winnie Chou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Win-C/winniechou/issues"
+  },
+  "homepage": "https://github.com/Win-C/winniechou#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0",
+    "open": "^7.4.2"
+  }
+}
