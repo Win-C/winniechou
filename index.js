@@ -33,7 +33,6 @@ const questions = [
 ];
 
 // Data for the card
-// Can use hex and other font formatting ${chalk.hex("#2b82b2").bold("BYU-I")}`
 const data = {
   name: chalk.bold.green("     Winnie Chou"),
   work: `${chalk.white("Softare Developer")}`,
